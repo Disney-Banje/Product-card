@@ -7,6 +7,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,6 +30,10 @@ Users should be able to:
 ![](images/Desktop-view%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 ![](images/Mobile-view%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
+
+### Links
+
+- Live Site URL: [Live site URL](https://disney-banje.github.io/Product-card/)
 
 ## My process
 
